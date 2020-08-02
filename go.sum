@@ -1,3 +1,4 @@
+github.com/abhaydiwan/GoMicroSvc v0.0.0-20200802134527-95fad2894ac8 h1:GMgLAm9T5Ik4IvCL8ldGHhnXdYma3dbwIP5odzivOFQ=
 github.com/go-sql-driver/mysql v1.4.0/go.mod h1:zAC/RDZ24gD3HViQzih4MyKcchzm+sOG5ZlKdlhCg5w=
 github.com/go-stack/stack v1.8.0 h1:5SgMzNM5HxrEjV0ww2lTmX6E2Izsfxas4+YHWRs3Lsk=
 github.com/go-stack/stack v1.8.0/go.mod h1:v0f6uXyyMGvRgIKkXu+yp6POWl0qKG85gN/melR3HDY=

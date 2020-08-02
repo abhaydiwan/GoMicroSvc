@@ -1,4 +1,4 @@
-module github.com/abhaydiwan/GoMicroSvc/samplemgr
+module github.com/abhaydiwan/GoMicroSvc
 
 go 1.14
 
