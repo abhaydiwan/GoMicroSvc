@@ -1,10 +1,10 @@
-module github.com/abhaydiwan/sweatbead/samplemgr
+module github.com/abhaydiwan/GoMicroSvc/samplemgr
 
 go 1.14
 
 require (
-	github.com/abhaydiwan/sweatbead/samplemgr/db v0.0.0-00010101000000-000000000000
-	github.com/abhaydiwan/sweatbead/samplemgr/service v0.0.0-00010101000000-000000000000
+	github.com/abhaydiwan/GoMicroSvc/samplemgr/db v0.0.0-00010101000000-000000000000
+	github.com/abhaydiwan/GoMicroSvc/samplemgr/service v0.0.0-00010101000000-000000000000
 	github.com/go-stack/stack v1.8.0 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
 	github.com/gorilla/mux v1.7.0
