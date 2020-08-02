@@ -19,6 +19,4 @@ require (
 	golang.org/x/text v0.3.2 // indirect
 )
 
-replace github.com/abhaydiwan/sweatbead/samplemgr/db => /samplemgr/db
 
-replace github.com/abhaydiwan/sweatbead/samplemgr/service => /samplemgr/service
