@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/abhaydiwan/sweatbead/samplemgr/db"
-	"github.com/abhaydiwan/sweatbead/samplemgr/service"
+	"github.com/abhaydiwan/GoMicroSvc/samplemgr/db"
+	"github.com/abhaydiwan/GoMicroSvc/samplemgr/service"
 
 	"github.com/urfave/negroni"
 )
